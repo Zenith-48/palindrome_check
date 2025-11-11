@@ -1,5 +1,5 @@
 import sys
-if len(sys.argv) == 3:
+if len(sys.argv) == 2:
     script_name = sys.argv[0]
     input_str = sys.argv[1]
 else:
